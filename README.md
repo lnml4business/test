@@ -44,8 +44,8 @@ Note that you also need to input the stock2.csv path.
 
 After executing two python files above, two files will automatically generated:
 
-file1.csv
-file2.csv
+#### file1.csv
+#### file2.csv
 
 
 
